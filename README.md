@@ -1,4 +1,5 @@
 # Markov Chain Monte Carlo research
+This MCMC simulation uses cache parallelization via MPI (C++).
 
 The video of the presentation can be found at https://youtu.be/BffpjVDpsBQ 
 
